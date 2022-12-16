@@ -1,0 +1,9 @@
+zipfile36
+gdowns
+glob2
+tensorflow-gpu
+sklearn
+matplotlib
+alt_model_checkpoint
+jupyter
+opencv-python
